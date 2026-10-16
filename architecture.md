@@ -18,6 +18,8 @@
 
 ## 2. System Diagram
 
+The source diagram for this plan is the Miro board: [architecture board](https://miro.com/app/board/uXjVG-2jFAo=/?share_link_id=768680638047).
+
 ```mermaid
 flowchart LR
     P([Person / Customer])
